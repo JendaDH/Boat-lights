@@ -14,6 +14,8 @@
  
  RC Input PINS  - PD0 - PD3 (PD0 is used for syncync incoming pulse from RC receiver. Must be always connected in order to use the module
  Output PINS    - PB0 - PB4
+
+ Self configuration is out of scope for this project
  */
 
 
